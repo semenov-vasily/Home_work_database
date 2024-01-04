@@ -1,10 +1,8 @@
 # Домашнее задание к лекции «Продвинутая выборка данных»
 
-**Схема представлена на рисунке ![Home_work_database_2.drawio.png](Home_work_database_2.drawio.png)**
+Схема представлена на рисунке 
 
-**SQL-запросы представлены в файле [Home_work_database_2.drawio.sql](Home_work_database_2.drawio.sql)**
-
-
+![Home_work_database_2.drawio.png](Home_work_database_2.drawio.png)
 
 ## Задание 1
 
@@ -56,6 +54,6 @@
 
 ## Результатом работы будет три файла в формате .sql:
 
-* с INSERT-запросами (задание 1) [Home_work_database_3_1.sql](Home_work_database_3_1.sql),
-* с SELECT-запросами (задание 2,3,4)[Home_work_database_3_2.sql](Home_work_database_3_2.sql),
-* с CREATE-запросами (из предыдущей домашней работы) [Home_work_database_2.drawio.sql](Home_work_database_2.drawio.sql).
+* с INSERT-запросами (задание 1) [Home_work_database_3_1.sql](Home_work_database_3_1.sql)),
+* с SELECT-запросами (задание 2,3,4) [Home_work_database_3_2.sql](Home_work_database_3_2.sql)),
+* с CREATE-запросами (из предыдущей домашней работы) [Home_work_database_2.sql](Home_work_database_2.sql)).
